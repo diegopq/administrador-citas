@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live url:
+https://jovial-jepsen-890e31.netlify.app
 
 ## Available Scripts
 
